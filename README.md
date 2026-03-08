@@ -6,11 +6,11 @@
 
 <div align="center">
   <h3>
-    <a href="{https://g-akca.github.io/dc-simple-faq/}">
+    <a href="https://g-akca.github.io/dc-simple-faq/">
       Demo
     </a>
     <span> | </span>
-    <a href="{https://github.com/g-akca/dc-simple-faq}">
+    <a href="https://github.com/g-akca/dc-simple-faq">
       Solution
     </a>
     <span> | </span>
@@ -43,4 +43,4 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Author
 
-- GitHub [@g-akca](https://{github.com/g-akca})
+- GitHub: [@g-akca](https://{github.com/g-akca})
