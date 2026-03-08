@@ -16,6 +16,7 @@
 body {
     font-family: "Inter", sans-serif;
     font-size: 16px;
+    line-height: 32px;
     color: var(--text);
     background-color: var(--body-bg);
     display: flex;
@@ -30,7 +31,7 @@ body {
 /* Header */
 header {
     background-color: var(--header-bg);
-    padding: 72px 48px;
+    padding: 64px 48px;
     text-align: center;
     display: flex;
     flex-direction: column;
@@ -51,7 +52,7 @@ main {
 
 /* FAQ Sections */
 .faq-div {
-    padding: 40px 0;
+    padding: 36px 0;
 }
 
 .faq-div:not(:last-child) {
@@ -61,16 +62,12 @@ main {
 .faq-div h2 {
     font-size: 24px;
     font-weight: 600;
-    margin-bottom: 32px;
+    margin-bottom: 22px;
 }
 
 .faq-div ul, .faq-div ol {
     padding: 0 24px;
-    margin: 32px 0;
-}
-
-.faq-div li:not(:last-child) {
-    margin-bottom: 12px;
+    margin: 20px 0;
 }
 
 .faq-div a {
