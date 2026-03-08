@@ -1,0 +1,73 @@
+/* Root */
+:root {
+    --links: #4E80EE;
+    --text: #030616;
+    --header-bg: #FFFFFF;
+    --body-bg: #F8FAFC;
+    --border: #D2D5DA;
+}
+
+/* General */
+* {
+    margin: 0;
+}
+
+body {
+    font-family: "Inter", sans-serif;
+    font-size: 16px;
+    color: var(--text);
+    background-color: var(--body-bg);
+}
+
+.bold {
+    font-weight: bold;
+}
+
+/* Header */
+header {
+    background-color: var(--header-bg);
+    padding: 72px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
+
+h1 {
+    font-size: 36px;
+    font-weight: 600;
+}
+
+/* Main Section */
+main {
+    padding: 32px 24px;
+}
+
+/* FAQ Sections */
+.faq-div {
+    padding: 40px 0;
+}
+
+.faq-div:not(:last-child) {
+    border-bottom: 1px solid var(--border);
+}
+
+.faq-div h2 {
+    font-size: 24px;
+    font-weight: 600;
+    margin-bottom: 32px;
+}
+
+.faq-div ul, .faq-div ol {
+    padding: 0 24px;
+    margin: 32px 0;
+}
+
+.faq-div li:not(:last-child) {
+    margin-bottom: 12px;
+}
+
+.faq-div a {
+    color: var(--links);
+    text-decoration: none;
+}
