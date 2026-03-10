@@ -44,3 +44,4 @@ This application/site was created as a submission to a [DevChallenges](https://d
 ## Author
 
 - GitHub: [@g-akca](https://{github.com/g-akca})
+- devChallenges: [@g-akca](https://devchallenges.io/profile/ef372c5e-cfc9-417d-8266-5cc25cd52850)
